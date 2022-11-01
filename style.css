@@ -55,6 +55,7 @@ h2 {
 
 .section-2 {
     background-image: url(images/shapes/7.png );
+    background-repeat: no-repeat;
 }
 
 .section-2 img {
@@ -75,4 +76,65 @@ h3 {
 
 .section-3 {
     width: 50%;
+}
+
+#image-1 {
+    margin-left: 200px;
+    box-shadow: 10px 10px 50px grey;
+    border-left: 15px;
+    border-right: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    width: 100%;
+}
+
+#image-2 {
+    margin-left: 100px;
+    box-shadow: 10px 10px 50px gray;
+    border-left: 15px;
+    border-right: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    width: 100%
+}
+
+.section-4 {
+    background-color: white;
+
+    border-bottom: 300px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 10px;
+
+    margin-left: 200px;
+    margin-right: 180px;
+    border-top: 10000px;
+
+
+
+}
+
+.div-1 {
+    padding-left: 100px;
+
+    width: 50%;
+    padding-right: 70px;
+
+}
+
+.last-class {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.span {
+    color: orange;
 }
