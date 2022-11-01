@@ -6,13 +6,12 @@ body {
 
 .link-button {
     text-decoration: none;
-    background-color: tomato;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 30px;
-    color: white;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: wheat;
+    font-weight: 22px;
+
 }
 
 section {
